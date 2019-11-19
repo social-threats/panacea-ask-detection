@@ -8,4 +8,4 @@ layout: home
 
 Ask and Framing detection output of the current system below.
 
-<img src="https://github.com/social-threats/panacea-ask-detection/blob/master/images/ask_framing_detection_example.jpeg" style="display: block; margin: auto;" />
+<img src="https://github.com/social-threats/panacea-ask-detection/blob/master/images/ask_framing_detection_example.jpeg" class="img-responsive" alt=""> </div>
