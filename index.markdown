@@ -6,6 +6,4 @@ layout: home
 ---
 <b>Description: </b>The Panacea Ask Detection task is concerned with automatic detection of specific requests for information or action that the social engineer attackers expect their victims to perform. Gleaning of actions and intentions of adversaries in social engineering attacks from the adversaries' language use as well as the content of communication with their targets is the focus of ask detection.
 
-Ask and Framing detection output of the current system below.
-
-<img src="https://github.com/social-threats/panacea-ask-detection/blob/master/images/ask_framing_detection_example.jpeg" class="img-responsive" alt=""> </div>
+For an example of the ask and framing detection output of our current system, see the <a href="https://github.com/social-threats/panacea-ask-detection/blob/master/images/ask_framing_detection_example.jpeg">Example</a> tab.
