@@ -39,8 +39,8 @@ header_pages:
  - team.html
  - publications.html
  - example.html
- - data.html
  - resources.html
+ - data.html
  - tools.html
 
 # Exclude from processing.
