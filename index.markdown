@@ -10,7 +10,7 @@ The figure below shows an example of the ask and framing detection output of our
 <br><br>
 
 <figure>
-  <img src="../images/ask_framing_detection_example.jpeg" alt="The ask detection output example">
+  <img src="images/ask_framing_detection_example.jpeg" alt="The ask detection output example">
 </figure>
 
 <br><br>
