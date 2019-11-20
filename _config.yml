@@ -38,6 +38,8 @@ plugins:
 header_pages:
  - team.html
  - description.html
+ - sample-conversations.html
+ - experimental-details.html
  - publications.html
  - resources.html
  - data.html
