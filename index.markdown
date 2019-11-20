@@ -8,4 +8,4 @@ layout: home
 
 For an example of the ask and framing detection output of our current system, see the <a href="https://social-threats.github.io/panacea-ask-detection/images/ask_framing_detection_example.jpeg">figure</a>. Also look at the <a href="https://social-threats.github.io/panacea-ask-detection/example/">Example</a> tab for more details.
 
-<p style="font-size:12px">Acknowledgements: This work was supported by the Defense Advanced Research Projects Agency (DARPA) under Contract No FA8650-18-C-7881. All statements of fact, opinion or conclusions contained herein are those of the authors and should not be construed as representing the official views or policies of AFRL, DARPA, or the U.S. Government.</p>
+<p style="font-size:12px"><b>Acknowledgements: </b>This work was supported by the Defense Advanced Research Projects Agency (DARPA) under Contract No FA8650-18-C-7881. All statements of fact, opinion or conclusions contained herein are those of the authors and should not be construed as representing the official views or policies of AFRL, DARPA, or the U.S. Government.</p>
