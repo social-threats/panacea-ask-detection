@@ -38,7 +38,7 @@ plugins:
 header_pages:
  - team.html
  - publications.html
- - example.html
+ - description.html
  - resources.html
  - data.html
  - tools.html
