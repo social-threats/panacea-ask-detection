@@ -1,0 +1,24 @@
+---
+layout: page
+title: Metric Output
+permalink: /metric-output/
+---
+
+<pre style="white-space:pre-wrap;">
+    All Metric output has been anonymized and any names used are made up and not intended to represent real people.
+</pre>
+
+<ul>
+    <li>
+        <a href="{{ site.baseurl }}/metric-output/2019 - Ask Metric Data.csv"><b>Ask Metric Output</b></a>
+    <li><a href="{{ site.baseurl }}/metric-output/2019 - Framing Metric Data.csv"><b>Framing Metric output</b></a>
+    <li><a href="{{ site.baseurl }}/metric-output/2019 - TopAsk Metric Data.csv"><b>Top Ask Metric output</b></a>
+</ul>
+
+<p>
+	Description: Each row of the raw data in the Ask and Framing Metric Output refers, respectively to: (1) a potential Ask action e.g., "contact"=PERFORM on the Ask tab; or (2) a potential Framing action, e.g., "win"=GAIN on the Framing tab. Potential Asks and Framings are extracted from a set of anonymized emails---a pool of Panacea team members' collected suspected scam/impersonation emails---using dependency/constituency parsing and semantic role labeling (SRL). If an Ask (GIVE, PERFORM) or Framing (GAIN, LOSE) is assigned by Panacea Ask Detection, the cell will indicate this assignment, e.g., "Ask:PERFORM Verb:contact".  In the Top Ask Metric Output: (3) All top ask assignments are marked "Top:X". 
+</p>
+
+<p>
+	For all three Metric Outputs, each row is indexed to the corresponding row in GroundTruth (GT), and each column (0-6) is an experimental condition, such as "no LCS, no CatVar, No Verbal(VB) processing, No Structural(URL) processing". If the word "No" is in front of a condition, it means it is not used in the experiment; if "No" is absent, then the condition is used in the experiment.  Finally, for all three tabs, each cell is marked as one of four outcomes of the Panacea Ask/Framing Detection system, measured against Ground Truth: True Positive (TP), True Negative (TN), False Positive(FP), False Negative (FN). Ground truth is available on the Ask Detection website. Also, see Dorr et al., AAAI 2020 for overall Precision, Recall, and F results based on these outcomes.
+</p>

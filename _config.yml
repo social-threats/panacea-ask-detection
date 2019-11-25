@@ -43,6 +43,7 @@ header_pages:
  - experimental-details.html
  - resources.html
  - data.html
+ - metric-output.html
  - tools.html
 
 # Exclude from processing.
